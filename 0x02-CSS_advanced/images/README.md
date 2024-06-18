@@ -1,0 +1,1 @@
+This are source image files for index.html.
